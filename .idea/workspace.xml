@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0a459f0-7819-4e59-aa5f-e561f28b9a45" name="Changes" comment="maven-release" />
+    <list default="true" id="f0a459f0-7819-4e59-aa5f-e561f28b9a45" name="Changes" comment="maven-release lessom" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lesson-release" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -73,7 +78,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666205899094</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="maven-release">
+      <created>1666205936066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666205936067</updated>
+    </task>
+    <task id="LOCAL-00004" summary="maven-release lessom">
+      <created>1666206147091</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666206147091</updated>
+    </task>
+    <task id="LOCAL-00005" summary="maven-release lesso">
+      <created>1666206267654</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666206267655</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="maven-release" />
-    <option name="LAST_COMMIT_MESSAGE" value="maven-release" />
+    <MESSAGE value="maven-release lessom" />
+    <option name="LAST_COMMIT_MESSAGE" value="maven-release lessom" />
   </component>
 </project>
