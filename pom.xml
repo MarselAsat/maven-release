@@ -5,7 +5,7 @@
     <groupId>com.dmdev</groupId>
     <artifactId>maven-multimodule</artifactId>
     <packaging>pom</packaging>
-    <version>y</version>
+    <version>1.1-SNAPSHOT</version>
     <modules>
         <module>service</module>
         <module>web</module>
@@ -16,7 +16,7 @@
         <connection>scm:git:git@github.com:MarselAsat/maven-release.git</connection>
         <developerConnection>scm:git:git@github.com:MarselAsat/maven-release.git</developerConnection>
         <url>https://github.com/MarselAsat/maven-release</url>
-      <tag>y</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <properties>
