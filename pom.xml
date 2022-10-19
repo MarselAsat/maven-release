@@ -15,7 +15,9 @@
 
 
     <scm>
-        <connection>scm:git:</connection>
+        <connection>scm:git:git@github.com:MarselAsat/maven-release.git</connection>
+        <developerConnection>scm:git:git@github.com:MarselAsat/maven-release.git</developerConnection>
+        <url>https://github.com/MarselAsat/maven-release</url>
     </scm>
 
     <properties>
